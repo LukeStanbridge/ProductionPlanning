@@ -1,11 +1,16 @@
 ******Player Controller******
 
-	- Fix individual attack drags linking up to force receiver
-	- Hit with both fists
+	- Fix individual attack drags linking up to force receiver(dont think i need)
+	- Hit with both fists(unsure if it will matter)
+	- animation snap from running to walking during punch
+	- Particles and effects for attacks?
+	
 
-	- Add AOE damage effect to certain area around player, stuns enemies and push objects around from centre (https://www.youtube.com/watch?v=ode1-TwzNT0)
-	- Keep moving while punching (youtube.com/watch?v=W0eRZGS6dhQ)
-
+	- AOE stun big enemies and push objects and little enemies up from centre.
 	- Add force to enemies so they ragdoll and objects to break with force from player direction (https://www.youtube.com/watch?v=PVf8rQgcymQ - https://www.youtube.com/watch?v=qcdtYe5es4M - https://www.youtube.com/watch?v=vLmtfuJbOqc)
+	- Use add explosive force physics.
+
+	
+	https://www.youtube.com/watch?v=RXhTD8YZnY4
 	
 	
