@@ -2,13 +2,14 @@
 
 	- Hit with both fists(unsure if it will matter)
 	- animation snap from running to walking during punch
-	- Particles and effects for attacks?
+	- Spawn location and direction of particles
+	- Audio variable for player/enemy movement, attacks, stun
 	
+	- Add death and ragdoll (https://www.youtube.com/watch?v=PVf8rQgcymQ - https://www.youtube.com/watch?v=qcdtYe5es4M - https://www.youtube.com/watch?v=vLmtfuJbOqc)
 
-	- AOE stun big enemies and push objects and little enemies up from centre.
-	- Add force to enemies so they ragdoll and objects to break with force from player direction (https://www.youtube.com/watch?v=PVf8rQgcymQ - https://www.youtube.com/watch?v=qcdtYe5es4M - https://www.youtube.com/watch?v=vLmtfuJbOqc)
+	- Little enemies - run and hide from player, die from 1 hit AOE or 1 hit punch
+	- Big enemies - chase and attack player, causing them to stun(slow movement). Have to stun and hit to kill.
 
-	
 	https://www.youtube.com/watch?v=RXhTD8YZnY4
 	
 	
