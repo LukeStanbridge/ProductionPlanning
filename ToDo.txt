@@ -2,14 +2,20 @@
 
 	- Hit with both fists(unsure if it will matter)
 	- animation snap from running to walking during punch
+	- force too much up close, limit somehow
+	- player pops up off ground from ragdolls
+	- make throwable objects ragdoll enemies
+
+******Worry about when animations have been implemented*******
+
 	- Spawn location and direction of particles
 	- Audio variable for player/enemy movement, attacks, stun
-	
-	- Add death and ragdoll (https://www.youtube.com/watch?v=PVf8rQgcymQ - https://www.youtube.com/watch?v=qcdtYe5es4M - https://www.youtube.com/watch?v=vLmtfuJbOqc)
+
+*****Enemy Logic******
 
 	- Little enemies - run and hide from player, die from 1 hit AOE or 1 hit punch
 	- Big enemies - chase and attack player, causing them to stun(slow movement). Have to stun and hit to kill.
 
-	https://www.youtube.com/watch?v=RXhTD8YZnY4
+	Knockback - https://www.youtube.com/watch?v=RXhTD8YZnY4
 	
 	
