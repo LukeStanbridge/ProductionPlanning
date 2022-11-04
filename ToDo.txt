@@ -9,7 +9,8 @@
 ******Worry about when animations have been implemented*******
 
 	- Spawn location and direction of particles
-	- Audio variable for player/enemy movement, attacks, stun
+	- Need effects for run, pickup, throw, punch, slam, stun
+	- Audio clips for player/enemy movement, attacks, stun etc
 
 *****Enemy Logic******
 
@@ -18,4 +19,6 @@
 
 	Knockback - https://www.youtube.com/watch?v=RXhTD8YZnY4
 	
+	Flee - https://www.youtube.com/watch?v=UjkSFoLxesw
 	
+	Particle effects - https://assetstore.unity.com/packages/vfx/particles/hit-impact-effects-free-218385
