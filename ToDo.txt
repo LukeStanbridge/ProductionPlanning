@@ -1,24 +1,26 @@
-******Player Controller******
+******Player Controller Small Things******
 
 	- Hit with both fists(unsure if it will matter)
 	- animation snap from running to walking during punch
-	- force too much up close, limit somehow
-	- player pops up off ground from ragdolls
-	- make throwable objects ragdoll enemies
 
-******Worry about when animations have been implemented*******
+****** Worry about when models and animations have been implemented *******
 
 	- Spawn location and direction of particles
 	- Need effects for run, pickup, throw, punch, slam, stun
 	- Audio clips for player/enemy movement, attacks, stun etc
 
-*****Enemy Logic******
-
-	- Little enemies - run and hide from player, die from 1 hit AOE or 1 hit punch
-	- Big enemies - chase and attack player, causing them to stun(slow movement). Have to stun and hit to kill.
+***** Handy Tutorials ******
 
 	Knockback - https://www.youtube.com/watch?v=RXhTD8YZnY4
 	
 	Flee - https://www.youtube.com/watch?v=UjkSFoLxesw
 	
 	Particle effects - https://assetstore.unity.com/packages/vfx/particles/hit-impact-effects-free-218385
+
+	particle follow on attack - https://www.youtube.com/watch?v=ff4LoLLcfys
+
+***** TO DO ******
+
+	- make throwable objects stun big enemies or ragdoll enemies
+	- make waypoint guided Enemy AI that runs towards phone
+	- implement player rage state 
