@@ -13,14 +13,11 @@
 
 	Knockback - https://www.youtube.com/watch?v=RXhTD8YZnY4
 	
-	Flee - https://www.youtube.com/watch?v=UjkSFoLxesw
-	
-	Particle effects - https://assetstore.unity.com/packages/vfx/particles/hit-impact-effects-free-218385
+	Enemy AI - https://www.youtube.com/watch?v=UjkSFoLxesw
 
 	particle follow on attack - https://www.youtube.com/watch?v=ff4LoLLcfys
 
 ***** TO DO ******
 
-	- make throwable objects stun big enemies or ragdoll enemies
-	- make waypoint guided Enemy AI that runs towards phone
+	- make throwable objects stun big enemies or ragdoll smaller enemies
 	- implement player rage state 
