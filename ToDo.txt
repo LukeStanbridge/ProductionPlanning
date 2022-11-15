@@ -17,6 +17,14 @@
 
 	particle follow on attack - https://www.youtube.com/watch?v=ff4LoLLcfys
 
+	Enemy AI attacking from distance - https://www.youtube.com/watch?v=QzitQSLhfG0&ab_channel=LlamAcademy
+						   - https://www.youtube.com/watch?v=6YsamZNNwpQ&ab_channel=LlamAcademys
+
+	player throwing line renederer - https://www.youtube.com/watch?v=8mGZBYsSXcQ&ab_channel=LlamAcademy
+	player throw code - https://github.com/llamacademy/projectile-trajectory/blob/main/Assets/Scripts/GrenadeThrower.cs
+
+	simple enemy AI code monkey - https://www.youtube.com/watch?v=db0KWYaWfeM&ab_channel=CodeMonkey
+
 ***** TO DO ******
 
 	- make throwable objects stun big enemies or ragdoll smaller enemies
