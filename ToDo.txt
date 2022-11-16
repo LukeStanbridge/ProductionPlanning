@@ -27,5 +27,12 @@
 
 ***** TO DO ******
 
-	- make throwable objects stun big enemies or ragdoll smaller enemies
 	- implement player rage state 
+
+- Slow down entire game when rage input is pressed, needs to be outside of the player state machine, count down the timer then change time scale back to normal
+- Speed up player so they continue at normal speed when in rage mode(inside the rage state script), return everything to normal speeds once timer is complete
+
+https://www.youtube.com/watch?v=F0kezWUqytM
+https://www.youtube.com/watch?v=-uqfl0TfEWA
+https://www.youtube.com/watch?v=BYxLEBITNUA
+https://www.youtube.com/watch?v=rgTYFC-GTKc
