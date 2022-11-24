@@ -5,9 +5,7 @@
 
 ****** Worry about when models and animations have been implemented *******
 
-	- Spawn location and direction of particles
-	- Need effects for run, pickup, throw, punch, slam, stun
-	- Audio clips for player/enemy movement, attacks, stun etc
+	- Need audio, cam shake and particle effects for run, punch, slam, charge and stun
 
 ***** Handy Tutorials ******
 
@@ -31,5 +29,15 @@
 
 ***** TO DO *****
  
-- min/max out the rage reset value and enemyrage values from 0 to 1 
-- add system to adjust wall breaking in stages(add gamemanager)
+- min/max out the rage reset value and enemyrage values from 0 to 1 *DONE*
+- Get Large enemies to regenerate health after stun. *DONE*
+- Add a check to UI manager/Input system to see if controller is plugged in *DONE*
+- Fix wall smash so it destroys wall straight away. *DONE*
+- Fix Forces to smash further away. *DONE*
+
+- Add a walk state when greg is stunned
+- Get enemy AI to run away from each other *ASK JOHN*
+- Revisit Destructable objects getting force pushed from the direction of the player
+- Stop Player Movement as soon as greg hits the ground on AOE attack/ maybe add locked lunge to attack again
+- Instant speed on charge attack, slowly rampig up.
+- Add another particle effect that goes of at end of animation, and trail particle for charge attack
