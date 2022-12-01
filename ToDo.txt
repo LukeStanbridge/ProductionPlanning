@@ -3,10 +3,6 @@
 	- Hit with both fists(unsure if it will matter)
 	- animation snap from running to walking during punch
 
-****** Worry about when models and animations have been implemented *******
-
-	- Need audio, cam shake and particle effects for run, punch, slam, charge and stun
-
 ***** Handy Tutorials ******
 
 	Knockback - https://www.youtube.com/watch?v=RXhTD8YZnY4
@@ -29,18 +25,7 @@
 
 ***** TO DO *****
 
-- Stop Player Movement as soon as greg hits the ground on AOE attack/ maybe add locked lunge to attack again *DONE*
-- Add a walk state when greg is stunned *DONE*
-- Add rage mode profile switching in rage mode *DONE*
+- Player impact state played when hitting unbreakable wall
+- Adding basic attacks when walking around at stunned speed
 
-- Get enemy AI to run away from each other *ASK JOHN*
-- Revisit Destructable objects getting force pushed from the direction of the player *MAYBE*
-- Mash buttons to get out of stun *MAYBE*
-
-- Instant speed on charge attack, slowly rampig up, insta fast.
-- Add another particle effect that goes of at end of animation, and trail particle for charge attack
-- Fix Enemy attack collider point
-- Immunity window once stunned
-- Can't get stunned performing special abilities.
-- Can only break certain destructables with charge
 
