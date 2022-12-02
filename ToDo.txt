@@ -26,6 +26,5 @@
 ***** TO DO *****
 
 - Player impact state played when hitting unbreakable wall
-- Adding basic attacks when walking around at stunned speed
-
+- Add drag force to player and enemy hits
 
