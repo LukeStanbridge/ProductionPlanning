@@ -27,7 +27,8 @@
 
 - Player impact state played when hitting unbreakable wall
 - Add drag force to player and enemy hits
-- Fix buff guy face player movement so it rotates faster
 - Enemies getting stuck or not running to anywhere
 - Visual cue for getting stunned
+- Speed up impact animation
+- send flee enemies to hide state if object is front of them
 
