@@ -25,10 +25,11 @@
 
 ***** TO DO *****
 
-- Player impact state played when hitting unbreakable wall
-- Add drag force to player and enemy hits
-- Enemies getting stuck or not running to anywhere
-- Visual cue for getting stunned
-- Speed up impact animation
-- send flee enemies to hide state if object is front of them
+- attack buff guys 3x with normal attack
+- punching particles
+- locked direction to charge
+- confirm impact state when hitting wall
 
+- Visual cue for getting stunned
+- send flee enemies to hide state if object is front of them
+- Add drag force to player and enemy hits
